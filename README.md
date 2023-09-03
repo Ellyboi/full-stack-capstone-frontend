@@ -91,7 +91,7 @@ Welcome to the frontend repository of VECS School's course booking platform. Thi
 
 ## 🚀 Link to API<a name="live-demo"></a>
 
-- Check out VECS SCHOOL API app [here.](https://github.com/christianonoh/vecs-school-backend/)
+- Check out VECS SCHOOL API app [here.](https://github.com/Ellyboi/vecs-school-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
